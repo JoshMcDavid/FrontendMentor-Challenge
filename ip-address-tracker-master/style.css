@@ -9,9 +9,6 @@ body
     font-family: 'Rubik', sans-serif;
     font-weight: 400;
 }
-
-
-
 *, *::after, *::before 
   {
     margin: 0;
@@ -75,14 +72,6 @@ cursor: pointer;
     font-size: 1.5rem;
     cursor: pointer; 
 }
-.input_ip::-webkit-input-placeholder
-{
-    font-family: 'Rubik', sans-serif;
-    color: #969696;
-    font-size: 1.5rem;
-    line-height: 1; 
-}
-
 .input .btn 
 {
     padding: 1.5rem;
