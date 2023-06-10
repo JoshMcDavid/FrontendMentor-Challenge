@@ -10,17 +10,7 @@ body
     font-weight: 400;
 }
 
-/* .header_image .image 
-{
-      width: 5%;
-      display: block;
-      position: absolute;
-      top: 35%;
-      left: 47%;
-      transform: translate(-50%, -50%);
-      animation: rotate 2s infinite linear;
-      animation-play-state: paused; 
-} */
+
 
 *, *::after, *::before 
   {
